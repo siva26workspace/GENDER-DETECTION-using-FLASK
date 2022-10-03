@@ -27,4 +27,4 @@ Recommended version 3.10.0 or above.
 ## Output 
 ![image](https://user-images.githubusercontent.com/80459102/193560703-2b639b5b-9c00-44b8-8bda-925e5e7f3259.png)
 ## Credits
-Thanks [Sefik Ilkin Serengil](https://github.com/serengil)
+Sincere Thanks to [Sefik Ilkin Serengil](https://github.com/serengil) for deepface package.
