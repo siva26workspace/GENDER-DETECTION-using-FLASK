@@ -1,6 +1,6 @@
 # GENDER-DETECTION-using-FLASK
 ## Description:
-Detect face in a image and to predict the gender of the person using a deep learning-based gender detection model.
+Detect face in an image and to predict the gender of the person using a deep learning-based gender detection model.
 ## Algorithm Used
 Deep Learning (Unsupervised)
 ## Python packages 
