@@ -36,7 +36,7 @@ Before getting started, make sure you have the following installed:
 ```python main.py```  
 
 2. Change the path where the image must be saved.
-```UPLOAD_FOLDER = r'C:\your\choice``` to any path of your choice.
+```UPLOAD_FOLDER = r'C:\your\choice'``` to any path of your choice.
 
 The app will be running at http://localhost:5000.
 
